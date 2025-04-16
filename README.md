@@ -86,11 +86,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 - React.js
 - React Hooks (useState, useEffect, useContext, useReducer, useRef, useMemo)
-- CSS Modules для стилизации
-
-## Установка и запуск
-
-1. Клонируйте репозиторий:
-   ```bash
-   git clone https://github.com/your-username/notes-app.git
-   cd notes-app
+- CSS Modules для стилизации 
