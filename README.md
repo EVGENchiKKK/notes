@@ -68,3 +68,29 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Приложение для заметок на React
+
+Простое приложение для создания, редактирования и управления заметками с использованием React и хуков.
+
+## Функциональность
+
+- Добавление новых заметок
+- Редактирование существующих заметок
+- Удаление заметок
+- Добавление заметок в избранное
+- Поиск по заметкам
+- Сохранение заметок в localStorage
+
+## Используемые технологии
+
+- React.js
+- React Hooks (useState, useEffect, useContext, useReducer, useRef, useMemo)
+- CSS Modules для стилизации
+
+## Установка и запуск
+
+1. Клонируйте репозиторий:
+   ```bash
+   git clone https://github.com/your-username/notes-app.git
+   cd notes-app
